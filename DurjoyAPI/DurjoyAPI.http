@@ -1,0 +1,6 @@
+@DurjoyAPI_HostAddress = http://localhost:5199
+
+GET {{DurjoyAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

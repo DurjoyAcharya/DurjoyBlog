@@ -1,4 +1,4 @@
-namespace DurjoyBlogDomain.Params;
+namespace DurjoyBlogDomain.Shared;
 
 public abstract class BaseEntity
 {

@@ -1,5 +1,6 @@
 using System.ComponentModel.DataAnnotations.Schema;
 using DurjoyBlogDomain.Params;
+using DurjoyBlogDomain.Shared;
 
 namespace DurjoyBlogDomain.Entities;
 

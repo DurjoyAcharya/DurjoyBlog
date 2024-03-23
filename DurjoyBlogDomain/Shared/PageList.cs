@@ -1,6 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 
-namespace DurjoyBlogDomain.Params;
+namespace DurjoyBlogDomain.Shared;
 
 public class PageList<E> : List<E>
 {

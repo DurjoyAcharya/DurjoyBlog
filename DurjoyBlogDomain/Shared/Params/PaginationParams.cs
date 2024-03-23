@@ -1,4 +1,4 @@
-namespace DurjoyBlogDomain.Params;
+namespace DurjoyBlogDomain.Shared.Params;
 
 public class PaginationParams
 {

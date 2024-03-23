@@ -1,4 +1,6 @@
-namespace DurjoyBlogDomain.Params;
+using DurjoyBlogDomain.Params;
+
+namespace DurjoyBlogDomain.Shared.Params;
 
 public class MessageParams: PaginationParams
 {

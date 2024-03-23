@@ -1,4 +1,4 @@
-namespace DurjoyBlogDomain.Extensions;
+namespace DurjoyBlogDomain.Shared.Extensions;
 
 public static class DateTimeExtensions
 {

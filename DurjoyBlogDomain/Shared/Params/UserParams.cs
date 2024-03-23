@@ -1,3 +1,5 @@
+using DurjoyBlogDomain.Shared.Params;
+
 namespace DurjoyBlogDomain.Params;
 
 public class UserParams:PaginationParams
